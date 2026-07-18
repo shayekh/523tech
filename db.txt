@@ -1,0 +1,1 @@
+select bashar address from tumi koi where person name = 'Ratul'
